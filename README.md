@@ -1,2 +1,2 @@
 # commercial-train-manager
-Makes commercial train managing easy.
+Organizational program for managing commercial trains.
